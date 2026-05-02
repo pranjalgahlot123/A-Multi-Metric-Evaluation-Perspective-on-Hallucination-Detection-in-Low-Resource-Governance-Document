@@ -1,0 +1,2 @@
+# A-Multi-Metric-Evaluation-Perspective-on-Hallucination-Detection-in-Low-Resource-Governance-Document
+This paper investigates how to detect hallucinations in summaries of governance documents, especially in low-resource settings where labeled data is scarce. It argues that relying on a single evaluation metric is insufficient, and proposes a multi-metric evaluation framework to better capture factual consistency.
